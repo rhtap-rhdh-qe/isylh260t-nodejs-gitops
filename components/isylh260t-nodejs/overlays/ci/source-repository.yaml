@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: isylh260t-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/isylh260t-nodejs
